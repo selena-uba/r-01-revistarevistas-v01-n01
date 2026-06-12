@@ -3,3 +3,4 @@ Detalle de la revista
 Titulo en segundo idioma, palabras clasves en ambos idiomas, autor completo, resumen en ambos idiomas 500-700 palabras
 2 articulo
 3 reseña
+segundo idioma, autorìa
