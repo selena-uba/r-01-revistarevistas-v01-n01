@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref-list xmlns:xlink="http://www.w3.org/1999/xlink">
+  <ref id="0-LATOUR1986">
+    <element-citation publication-type="journal">
+      <person-group person-group-type="author">
+        <name>
+          <surname>Latour</surname>
+          <given-names>B.</given-names>
+        </name>
+      </person-group>
+      <article-title>The powers of association</article-title>
+      <source>The Sociological Review</source>
+      <year>1986</year>
+      <volume>32</volume>
+      <issue>S1</issue>
+      <fpage>264</fpage>
+      <lpage>280</lpage>
+      <pub-id pub-id-type="doi">10.1111/j.1467-954X.1984.tb00113.x</pub-id>
+    </element-citation>
+  </ref>
+  <ref id="2553-BARTHES1968">
+    <element-citation publication-type="journal">
+      <person-group person-group-type="author">
+        <name>
+          <surname>Barthes</surname>
+          <given-names>R</given-names>
+        </name>
+      </person-group>
+      <article-title>La mort de l’auteur</article-title>
+      <source>Manteia</source>
+      <year>1968</year>
+      <issue>5</issue>
+      <fpage>12</fpage>
+      <lpage>17</lpage>
+      <pub-id pub-id-type="doi">10.3917/lignes.003.0117</pub-id>
+    </element-citation>
+  </ref>
+  <ref id="2554-SANTOS2002">
+    <element-citation publication-type="journal">
+      <person-group person-group-type="author">
+        <name>
+          <surname>Santos</surname>
+          <given-names>B. de S.</given-names>
+        </name>
+      </person-group>
+      <article-title>Para uma sociologia das ausências</article-title>
+      <source>Revista Crítica de Ciências Sociais</source>
+      <year>2002</year>
+      <volume>63</volume>
+      <fpage>237</fpage>
+      <lpage>280</lpage>
+      <pub-id pub-id-type="doi">10.4000/rccs.1285</pub-id>
+    </element-citation>
+  </ref>
+  <ref id="2555-TURING1950">
+    <element-citation publication-type="journal">
+      <person-group person-group-type="author">
+        <name>
+          <surname>Turing</surname>
+          <given-names>A. M.</given-names>
+        </name>
+      </person-group>
+      <article-title>Computing Machinery and Intelligence</article-title>
+      <source>Mind</source>
+      <year>1950</year>
+      <volume>59</volume>
+      <issue>239</issue>
+      <fpage>433</fpage>
+      <lpage>460</lpage>
+      <pub-id pub-id-type="doi">10.1093/mind/LIX.236.433</pub-id>
+    </element-citation>
+  </ref>
+  <ref id="2556-ORTIZ1988">
+    <element-citation publication-type="journal">
+      <person-group person-group-type="author">
+        <name>
+          <surname>Ortiz</surname>
+          <given-names>R.</given-names>
+        </name>
+      </person-group>
+      <article-title>Cultura brasileira e identidade nacional</article-title>
+      <source>Brasiliense</source>
+      <year>1988</year>
+      <volume>12</volume>
+      <issue>4</issue>
+      <fpage>15</fpage>
+      <lpage>30</lpage>
+      <pub-id pub-id-type="doi">10.1590/S0103-40141988000200003</pub-id>
+    </element-citation>
+  </ref>
+  <ref id="2557-BOURDIEU1979">
+    <element-citation publication-type="journal">
+      <person-group person-group-type="author">
+        <name>
+          <surname>Bourdieu</surname>
+          <given-names>P.</given-names>
+        </name>
+      </person-group>
+      <article-title>Les trois états du capital culturel</article-title>
+      <source>Actes de la recherche en sciences sociales</source>
+      <year>1979</year>
+      <volume>30</volume>
+      <issue>1</issue>
+      <fpage>3</fpage>
+      <lpage>6</lpage>
+      <pub-id pub-id-type="doi">10.3406/arss.1979.2654</pub-id>
+    </element-citation>
+  </ref>
+  <ref id="2558-DERRIDA1967">
+    <element-citation publication-type="journal">
+      <person-group person-group-type="author">
+        <name>
+          <surname>Derrida</surname>
+          <given-names>J.</given-names>
+        </name>
+      </person-group>
+      <article-title>Structure, signe et jeu dans le discours des sciences humaines</article-title>
+      <source>Critique</source>
+      <year>1967</year>
+      <volume>23</volume>
+      <issue>246</issue>
+      <fpage>425</fpage>
+      <lpage>442</lpage>
+      <pub-id pub-id-type="doi">10.3917/criti.246.0425</pub-id>
+    </element-citation>
+  </ref>
+  <ref id="2559-HARDIN1968">
+    <element-citation publication-type="journal">
+      <person-group person-group-type="author">
+        <name>
+          <surname>Hardin</surname>
+          <given-names>G.</given-names>
+        </name>
+      </person-group>
+      <article-title>The Tragedy of the Commons</article-title>
+      <source>Science</source>
+      <year>1968</year>
+      <volume>162</volume>
+      <issue>3859</issue>
+      <fpage>1243</fpage>
+      <lpage>1248</lpage>
+      <pub-id pub-id-type="doi">10.1126/science.162.3859.1243</pub-id>
+    </element-citation>
+  </ref>
+  <ref id="2560-MERTON1968">
+    <element-citation publication-type="journal">
+      <person-group person-group-type="author">
+        <name>
+          <surname>Merton</surname>
+          <given-names>R. K.</given-names>
+        </name>
+      </person-group>
+      <article-title>The Matthew Effect in Science</article-title>
+      <source>Science</source>
+      <year>1968</year>
+      <volume>159</volume>
+      <issue>3810</issue>
+      <fpage>56</fpage>
+      <lpage>63</lpage>
+      <pub-id pub-id-type="doi">10.1126/science.159.3810.56</pub-id>
+    </element-citation>
+  </ref>
+  <ref id="2561-CHARTIER1994">
+    <element-citation publication-type="book">
+      <person-group person-group-type="author">
+        <name>
+          <surname>Chartier</surname>
+          <given-names>R.</given-names>
+        </name>
+      </person-group>
+      <source>El orden de los libros</source>
+      <publisher-name>Gedisa</publisher-name>
+      <publisher-loc>Barcelona</publisher-loc>
+      <year>1994</year>
+    </element-citation>
+  </ref>
+  <ref id="2562-WARSCHAUER2004">
+    <element-citation publication-type="journal">
+      <person-group person-group-type="author">
+        <name>
+          <surname>Warschauer</surname>
+          <given-names>M.</given-names>
+        </name>
+      </person-group>
+      <article-title>Technology and Social Inclusion: Rethinking the Digital Divide</article-title>
+      <publisher-name>The MIT Press</publisher-name>
+      <year>2004</year>
+    </element-citation>
+  </ref>
+</ref-list>
