@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<front xmlns:xlink="http://www.w3.org/1999/xlink">
+  <journal-meta>
+    <journal-id journal-id-type="publisher-id">1515-1573</journal-id>
+    <journal-title-group>
+      <journal-title>Revista Revistas</journal-title>
+    </journal-title-group>
+    <issn pub-type="epub">1515-1573</issn>
+    <publisher>
+      <publisher-name>Selena Edita</publisher-name>
+      <publisher-loc>Buenos Aires, Argentina</publisher-loc>
+    </publisher>
+  </journal-meta>
+  <article-meta>
+    <article-categories>
+      <subj-group subj-group-type="heading">
+        <subject>book-review</subject>
+      </subj-group>
+    </article-categories>
+    <title-group>
+      <article-title>Reseña sobre un libro</article-title>
+      <trans-title-group xml:lang="eng">
+        <trans-title>Review about a book</trans-title>
+      </trans-title-group>
+    </title-group>
+    <contrib-group>
+      <contrib contrib-type="author" id="a2">
+        <name>
+          <surname>Otra</surname>
+          <given-names>Persona</given-names>
+        </name>
+      </contrib>
+    </contrib-group>
+    <pub-date pub-type="epub-ppub">
+      <month>06</month>
+      <year>2026</year>
+    </pub-date>
+    <volume>1</volume>
+    <issue>1</issue>
+    <permissions>
+      <copyright-year>2026</copyright-year>
+      <license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by/4.0/deed.es">
+        <license-p>CC BY 4.0</license-p>
+      </license>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>xml-lang</meta-name>
+        <meta-value>es</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </article-meta>
+</front>

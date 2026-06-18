@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<front xmlns:xlink="http://www.w3.org/1999/xlink">
+  <journal-meta>
+    <journal-id journal-id-type="publisher-id">1515-1573</journal-id>
+    <journal-title-group>
+      <journal-title>Revista Revistas</journal-title>
+    </journal-title-group>
+    <issn pub-type="epub">1515-1573</issn>
+    <publisher>
+      <publisher-name>Selena Edita</publisher-name>
+      <publisher-loc>Buenos Aires, Argentina</publisher-loc>
+    </publisher>
+  </journal-meta>
+  <article-meta>
+    <article-categories>
+      <subj-group subj-group-type="heading">
+        <subject>editorial</subject>
+      </subj-group>
+    </article-categories>
+    <title-group>
+      <article-title>Las deudas pendientes de la digitalización en América Latina</article-title>
+      <trans-title-group xml:lang="eng">
+        <trans-title>The debts of digitalization in Latin America</trans-title>
+      </trans-title-group>
+    </title-group>
+    <contrib-group>
+      <contrib contrib-type="author" id="a3">
+        <name>
+          <surname>Gentes</surname>
+          <given-names>Las</given-names>
+        </name>
+      </contrib>
+    </contrib-group>
+    <pub-date pub-type="epub-ppub">
+      <month>07</month>
+      <year>2026</year>
+    </pub-date>
+    <volume>1</volume>
+    <issue>1</issue>
+    <permissions>
+      <copyright-year>2026</copyright-year>
+      <license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by/4.0/deed.es">
+        <license-p>CC BY 4.0</license-p>
+      </license>
+    </permissions>
+    <abstract xml:lang="es">
+      <p>Este editorial introduce acerca de la cuestión de la infraestructura tecnológica de los países de América Latina pre pandemia de COVID 19 y su posicionamiento frente a esta a partir de los escasos recursos que poseen y analiza como se podrían haber enfrentado a ella y como lo hicieron finalmente. En esta revista se presentan diversas opiniones de muchas personas que se posicionan acerca de la perspectiva a futuro y como se debería avanzar en esto para tener un futuro mas listo en relación a la infraestructura tecnológica de los países menos avanzados.</p>
+    </abstract>
+    <trans-abstract xml:lang="en">
+      <p>This editorial introduces the issue of technological infrastructure in Latin American countries before the COVID-19 pandemic and their response to it, given their limited resources. It analyzes how they could have faced the pandemic and how they ultimately did. This issue presents diverse opinions from various individuals regarding future prospects and how progress should be made to ensure a more prepared future in terms of technological infrastructure for less developed countries.</p>
+    </trans-abstract>
+    <kwd-group xml:lang="es" kwd-group-type="author-generated">
+      <kwd>COVID-19</kwd>
+      <kwd>América Latina</kwd>
+      <kwd>infraestructura</kwd>
+    </kwd-group>
+    <kwd-group xml:lang="en" kwd-group-type="author-generated">
+      <kwd>COVID-19</kwd>
+      <kwd>Latin America</kwd>
+      <kwd>infraestructure</kwd>
+    </kwd-group>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>xml-lang</meta-name>
+        <meta-value>es</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </article-meta>
+</front>
