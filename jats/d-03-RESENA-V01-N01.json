@@ -1,0 +1,30 @@
+{
+  "bibjson": {
+    "title": "Reseña sobre un libro",
+    "year": "2026",
+    "month": "junio",
+    "author": [
+      {
+        "name": "Otra, Persona",
+        "orcid_id": "https://orcid.org/0009-0009-5121-7748"
+      }
+    ],
+    "identifier": [
+      {"type": "eissn", "id": "1515-1573"},
+      {"type": "doi", "id": "10.24215/18522971e131"}
+    ],
+    "journal": {
+      "title": "Revista Revistas",
+      "publisher": "Editorial Selena",
+      "volume": "1",
+      "number": "1"
+    },
+    "link": [
+      {
+        "type": "fulltext",
+        "url": "https://www.youtube.com/",
+        "content_type": "text/html"
+      }
+    ]
+  }
+}

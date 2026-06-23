@@ -7,14 +7,15 @@
     </journal-title-group>
     <issn pub-type="epub">1515-1573</issn>
     <publisher>
-      <publisher-name>Selena Edita</publisher-name>
+      <publisher-name>Editorial Selena</publisher-name>
       <publisher-loc>Buenos Aires, Argentina</publisher-loc>
     </publisher>
   </journal-meta>
   <article-meta>
+    <article-id pub-id-type="doi">10.24215/18522971e133</article-id>
     <article-categories>
       <subj-group subj-group-type="heading">
-        <subject>letter</subject>
+        <subject>editorial</subject>
       </subj-group>
     </article-categories>
     <title-group>
@@ -30,6 +31,10 @@
           <given-names>Las</given-names>
         </name>
         <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-7695-6269</contrib-id>
+        <aff>
+          <institution>Facultad de Filosofìa y Letras</institution>,
+          <city>Buenos Aires</city>
+        </aff>
       </contrib>
     </contrib-group>
     <pub-date pub-type="epub-ppub">

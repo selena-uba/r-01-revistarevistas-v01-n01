@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ARCHIVO GENERADO AUTOMÁTICAMENTE POR GBPUBLISHER -->
+<!-- Validar contra: ~/.gbpublisher/schemas/doajArticles.xsd -->
+<records>
+   <record>
+      <language>spa</language>
+      <publisher>Editorial Selena</publisher>
+      <journalTitle>Revista Revistas</journalTitle>
+      <eissn>1515-1573</eissn>
+      <publicationDate>2026-06</publicationDate>
+      <volume>1</volume>
+      <issue>1</issue>
+      <doi>10.24215/18522971e131</doi>
+      <documentType>book review</documentType>
+      <title language="spa">Reseña sobre un libro</title>
+      <authors>
+         <author>
+            <name>Otra, Persona</name>
+            <affiliationId>1</affiliationId>
+            <orcid_id>https://orcid.org/0009-0009-5121-7748</orcid_id>
+         </author>
+      </authors>
+      <affiliationsList>
+         <affiliationName affiliationId="1">Directora de la facultad</affiliationName>
+      </affiliationsList>
+      <fullTextUrl format="text/html">https://www.youtube.com/</fullTextUrl>
+   </record>
+</records>

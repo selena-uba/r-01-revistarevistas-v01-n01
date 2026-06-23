@@ -7,11 +7,12 @@
     </journal-title-group>
     <issn pub-type="epub">1515-1573</issn>
     <publisher>
-      <publisher-name>Selena Edita</publisher-name>
+      <publisher-name>Editorial Selena</publisher-name>
       <publisher-loc>Buenos Aires, Argentina</publisher-loc>
     </publisher>
   </journal-meta>
   <article-meta>
+    <article-id pub-id-type="doi">10.24215/18522971e131</article-id>
     <article-categories>
       <subj-group subj-group-type="heading">
         <subject>book-review</subject>
@@ -30,6 +31,9 @@
           <given-names>Persona</given-names>
         </name>
         <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0009-0009-5121-7748</contrib-id>
+        <aff>
+          <institution>Directora de la facultad</institution>
+        </aff>
       </contrib>
     </contrib-group>
     <pub-date pub-type="epub-ppub">
