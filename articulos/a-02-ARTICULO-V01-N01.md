@@ -12,23 +12,23 @@ El presente estudio analiza la relación entre las condiciones de acceso digital
 ::: {.methods}
 ## De la brecha de acceso a la desigualdad digital
 
-La noción de "brecha digital" surgió en los años noventa asociada a la preocupación por las disparidades en el acceso a computadoras e Internet entre distintos segmentos de la población. En su formulación más temprana, el problema se concebía en términos binarios: conectados y no conectados. Sin embargo, Hargittai [-@2565-HARGITTAI2002] introdujo el concepto de "brecha digital de segundo nivel" para dar cuenta de las diferencias en habilidades y patrones de uso entre quienes ya tenían acceso a la red. Esta distinción abrió un campo de investigación que desplazó el foco desde la infraestructura hacia las prácticas.
+La noción de "brecha digital" surgió en los años noventa asociada a la preocupación por las disparidades en el acceso a computadoras e Internet entre distintos segmentos de la población. En su formulación más temprana, el problema se concebía en términos binarios: conectados y no conectados. Sin embargo, Hargittai @2565-HARGITTAI2002 introdujo el concepto de "brecha digital de segundo nivel" para dar cuenta de las diferencias en habilidades y patrones de uso entre quienes ya tenían acceso a la red. Esta distinción abrió un campo de investigación que desplazó el foco desde la infraestructura hacia las prácticas.
 
-Warschauer [-@2562-WARSCHAUER2004] profundizó esta línea al proponer un enfoque de inclusión social que integraba recursos físicos, digitales, humanos e institucionales. Desde esta perspectiva, la tecnología no constituye una variable independiente cuyo efecto pueda aislarse, sino que se inscribe en tramas de relaciones sociales que condicionan tanto su apropiación como sus resultados.
+Warschauer @2562-WARSCHAUER2004 profundizó esta línea al proponer un enfoque de inclusión social que integraba recursos físicos, digitales, humanos e institucionales. Desde esta perspectiva, la tecnología no constituye una variable independiente cuyo efecto pueda aislarse, sino que se inscribe en tramas de relaciones sociales que condicionan tanto su apropiación como sus resultados.
 
-Más recientemente, van Dijk [-@2563-VANDIJK2020] consolidó un modelo teórico que distingue cuatro tipos de acceso: motivacional (actitudes y disposiciones hacia la tecnología), material (dispositivos, conectividad y sus características), de habilidades (operativas, informacionales, estratégicas) y de resultados (beneficios concretos obtenidos del uso de tecnología). Este modelo permite operacionalizar la desigualdad digital de manera multidimensional y superar las mediciones basadas exclusivamente en la tenencia de dispositivos o la disponibilidad de conexión.
+Más recientemente, van Dijk @2563-VANDIJK2020 consolidó un modelo teórico que distingue cuatro tipos de acceso: motivacional (actitudes y disposiciones hacia la tecnología), material (dispositivos, conectividad y sus características), de habilidades (operativas, informacionales, estratégicas) y de resultados (beneficios concretos obtenidos del uso de tecnología). Este modelo permite operacionalizar la desigualdad digital de manera multidimensional y superar las mediciones basadas exclusivamente en la tenencia de dispositivos o la disponibilidad de conexión.
 
 ## La brecha digital en la educación superior latinoamericana
 
 En el contexto específico de América Latina, la CEPAL ha documentado extensamente las disparidades en el acceso y uso de tecnologías digitales, señalando que estas reproducen y profundizan desigualdades preexistentes de ingreso, género, etnia y territorio [@2566-CEPAL2021]. La educación superior no escapa a esta dinámica: si bien las tasas de conectividad entre estudiantes universitarios son superiores al promedio nacional en todos los países de la región, las condiciones de ese acceso ---calidad de la conexión, tipo de dispositivo, disponibilidad de un espacio adecuado para el estudio--- varían enormemente según el origen socioeconómico del estudiante.
 
-Van Deursen y van Dijk [-@2564-VANDEURSEN2019] mostraron que la brecha digital de primer nivel se ha desplazado desde las diferencias en el acceso físico hacia las desigualdades en el acceso material: ya no se trata solo de tener o no tener Internet, sino de las condiciones concretas en que se accede. Un estudiante que solo dispone de un teléfono celular con datos móviles limitados enfrenta restricciones cualitativas muy distintas a las de quien cuenta con una computadora de escritorio, conexión de fibra óptica y un espacio privado de trabajo. Estas diferencias, a menudo invisibilizadas por las estadísticas agregadas de penetración de Internet, tienen consecuencias directas sobre las posibilidades de aprendizaje.
+Van Deursen y van Dijk @2564-VANDEURSEN2019 mostraron que la brecha digital de primer nivel se ha desplazado desde las diferencias en el acceso físico hacia las desigualdades en el acceso material: ya no se trata solo de tener o no tener Internet, sino de las condiciones concretas en que se accede. Un estudiante que solo dispone de un teléfono celular con datos móviles limitados enfrenta restricciones cualitativas muy distintas a las de quien cuenta con una computadora de escritorio, conexión de fibra óptica y un espacio privado de trabajo. Estas diferencias, a menudo invisibilizadas por las estadísticas agregadas de penetración de Internet, tienen consecuencias directas sobre las posibilidades de aprendizaje.
 
 ## Metodología
 
 Se diseñó un estudio de métodos mixtos con un componente cuantitativo principal y un componente cualitativo complementario. La muestra cuantitativa incluyó 1.247 estudiantes de grado: 623 de la Facultad de Ciencias Sociales de la UBA y 624 de la Facultad de Ciencias Políticas y Sociales de la UNAM, seleccionados mediante muestreo estratificado por carrera y año de cursada durante el segundo semestre de 2022.
 
-Se aplicó un cuestionario estructurado que relevó cuatro dimensiones del acceso digital, operacionalizadas a partir del modelo de van Dijk [-@2563-VANDIJK2020]: acceso motivacional (escala de autoeficacia digital, 8 ítems, α = 0,87), acceso material (tipo de dispositivo principal, calidad de conexión, espacio de estudio), habilidades digitales (escala adaptada de van Deursen y van Dijk, 2019, 12 ítems, α = 0,91) y resultados académicos (promedio ponderado del período 2020-2022, materias aprobadas por semestre). El componente cualitativo consistió en 40 entrevistas semiestructuradas (20 por universidad) con estudiantes que presentaban perfiles contrastantes en las variables de interés.
+Se aplicó un cuestionario estructurado que relevó cuatro dimensiones del acceso digital, operacionalizadas a partir del modelo de van Dijk @2563-VANDIJK2020: acceso motivacional (escala de autoeficacia digital, 8 ítems, α = 0,87), acceso material (tipo de dispositivo principal, calidad de conexión, espacio de estudio), habilidades digitales (escala adaptada de van Deursen y van Dijk, 2019, 12 ítems, α = 0,91) y resultados académicos (promedio ponderado del período 2020-2022, materias aprobadas por semestre). El componente cualitativo consistió en 40 entrevistas semiestructuradas (20 por universidad) con estudiantes que presentaban perfiles contrastantes en las variables de interés.
 :::
 
 ::: {.results}
@@ -62,12 +62,16 @@ Los datos revelan una pauta consistente: mientras que los estudiantes del quinti
 
 ## Habilidades digitales y rendimiento académico
 
-El análisis de regresión múltiple mostró que las habilidades digitales, medidas mediante la escala adaptada, constituyen el predictor más fuerte del rendimiento académico en el período analizado (β = 0,34; p \< 0,001), por encima del acceso material (β = 0,21; p \< 0,01) y del acceso motivacional (β = 0,18; p \< 0,01). Sin embargo, el análisis de mediación reveló que las habilidades digitales operan, en buena medida, como variable mediadora entre el acceso material y el rendimiento: los estudiantes con mejores condiciones materiales desarrollan habilidades digitales más sofisticadas, lo que a su vez se traduce en mejores resultados académicos.
+PRUEBA 123
+El análisis de regresión múltiple mostró que las habilidades digitales, medidas mediante la escala adaptada, constituyen el predictor más fuerte del rendimiento académico en el período analizado
+
+ (β = 0,34; p \< 0,001), por encima del acceso material (β = 0,21; p \< 0,01) y del acceso motivacional (β = 0,18; p \< 0,01). Sin embargo, el análisis de mediación reveló que las habilidades digitales operan, en buena medida, como variable mediadora entre el acceso material y el rendimiento: los estudiantes con mejores condiciones materiales desarrollan habilidades digitales más sofisticadas, lo que a su vez se traduce en mejores resultados académicos.
 
 La Figura 1 presenta el modelo de mediación estimado con las cargas estandarizadas.
 
-:::{.figure #ImagenDeSol}
-![imagen realista del sol](media/sol.jpg)
+:::{.figure #figsol}
+![Una imagen del sol realista](media/sol.jpg)
+
 
 **Figura 1.** Modelo de mediación entre acceso material, habilidades digitales y rendimiento académico. Coeficientes estandarizados; \*p \< 0,05; \*\*p \< 0,01; \*\*\*p \< 0,001.
 :::
@@ -82,9 +86,9 @@ Otro hallazgo relevante fue la relación entre el tipo de dispositivo y las prá
 ::: {.discussion}
 ## Discusión
 
-Los resultados de este estudio confirman la pertinencia del modelo multidimensional de van Dijk [-@2563-VANDIJK2020] para analizar la desigualdad digital en contextos educativos latinoamericanos. La brecha entre los quintiles extremos de ingreso no se limita a la conectividad ---que, aun siendo desigual, ha mejorado significativamente--- sino que se extiende a las condiciones materiales del acceso, las habilidades digitales y, en última instancia, los resultados académicos.
+Los resultados de este estudio confirman la pertinencia del modelo multidimensional de van Dijk @2563-VANDIJK2020 para analizar la desigualdad digital en contextos educativos latinoamericanos. La brecha entre los quintiles extremos de ingreso no se limita a la conectividad ---que, aun siendo desigual, ha mejorado significativamente--- sino que se extiende a las condiciones materiales del acceso, las habilidades digitales y, en última instancia, los resultados académicos.
 
-El efecto mediador de las habilidades digitales sobre la relación entre acceso material y rendimiento coincide con lo reportado por Hargittai [-@2565-HARGITTAI2002] en contextos del norte global y sugiere que las políticas de inclusión digital que se limitan a la provisión de dispositivos y conectividad resultan necesarias pero insuficientes. Sin intervenciones específicas orientadas al desarrollo de competencias digitales ---no solo instrumentales sino también informacionales y estratégicas---, el acceso material no se traduce automáticamente en mejores oportunidades educativas.
+El efecto mediador de las habilidades digitales sobre la relación entre acceso material y rendimiento coincide con lo reportado por Hargittai @2565-HARGITTAI2002 en contextos del norte global y sugiere que las políticas de inclusión digital que se limitan a la provisión de dispositivos y conectividad resultan necesarias pero insuficientes. Sin intervenciones específicas orientadas al desarrollo de competencias digitales ---no solo instrumentales sino también informacionales y estratégicas---, el acceso material no se traduce automáticamente en mejores oportunidades educativas.
 
 La comparación entre la UBA y la UNAM muestra pautas notablemente similares en ambos contextos, lo que sugiere que la desigualdad digital en la educación superior responde a factores estructurales que trascienden las particularidades nacionales. En ambos casos, la variable con mayor poder discriminante es el origen socioeconómico del estudiante, que condiciona simultáneamente las distintas dimensiones del acceso digital. Este hallazgo es consistente con la tesis de la CEPAL sobre la reproducción digital de la "matriz de la desigualdad social" latinoamericana [@2566-CEPAL2021].
 :::
