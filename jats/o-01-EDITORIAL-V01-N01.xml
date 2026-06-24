@@ -7,8 +7,8 @@
            xsi:schemaLocation="http://www.crossref.org/schema/5.3.1 https://www.crossref.org/schemas/crossref5.3.1.xsd"
            version="5.3.1">
    <head>
-      <doi_batch_id>gbpublisher-01-EDITORIAL-V01-N01-20260623012832</doi_batch_id>
-      <timestamp>20260623012832</timestamp>
+      <doi_batch_id>gbpublisher-01-EDITORIAL-V01-N01-20260623193743</doi_batch_id>
+      <timestamp>20260623193743</timestamp>
       <depositor>
          <depositor_name>Editorial Selena</depositor_name>
          <email_address>selenaedita@gmail.com</email_address>
@@ -36,7 +36,7 @@
                           reference_distribution_opts="any">
             <titles>
                <title>Las deudas pendientes de la digitalización en América Latina</title>
-               <original_language_title language="eng">The debts of digitalization in Latin America</original_language_title>
+               <original_language_title language="en">The debts of digitalization in Latin America</original_language_title>
             </titles>
             <contributors>
                <person_name sequence="first" contributor_role="author">

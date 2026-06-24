@@ -7,8 +7,8 @@
            xsi:schemaLocation="http://www.crossref.org/schema/5.3.1 https://www.crossref.org/schemas/crossref5.3.1.xsd"
            version="5.3.1">
    <head>
-      <doi_batch_id>gbpublisher-03-RESENA-V01-N01-20260623013512</doi_batch_id>
-      <timestamp>20260623013512</timestamp>
+      <doi_batch_id>gbpublisher-03-RESENA-V01-N01-20260623200608</doi_batch_id>
+      <timestamp>20260623200608</timestamp>
       <depositor>
          <depositor_name>Editorial Selena</depositor_name>
          <email_address>selenaedita@gmail.com</email_address>
@@ -36,7 +36,7 @@
                           reference_distribution_opts="any">
             <titles>
                <title>Reseña sobre un libro</title>
-               <original_language_title language="eng">Review about a book</original_language_title>
+               <original_language_title language="en">Review about a book</original_language_title>
             </titles>
             <contributors>
                <person_name sequence="first" contributor_role="author">

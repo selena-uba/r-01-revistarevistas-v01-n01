@@ -7,8 +7,8 @@
            xsi:schemaLocation="http://www.crossref.org/schema/5.3.1 https://www.crossref.org/schemas/crossref5.3.1.xsd"
            version="5.3.1">
    <head>
-      <doi_batch_id>gbpublisher-02-ARTICULO-V01-N01-20260623013201</doi_batch_id>
-      <timestamp>20260623013201</timestamp>
+      <doi_batch_id>gbpublisher-02-ARTICULO-V01-N01-20260623195923</doi_batch_id>
+      <timestamp>20260623195923</timestamp>
       <depositor>
          <depositor_name>Editorial Selena</depositor_name>
          <email_address>selenaedita@gmail.com</email_address>
@@ -36,7 +36,7 @@
                           reference_distribution_opts="any">
             <titles>
                <title>Desigualdad digital y rendimiento académico en la educación superior: un estudio comparativo en universidades públicas de Argentina y México</title>
-               <original_language_title language="eng">Digital inequality and academic performance in higher education: a comparative study in public universities form Argentina and Mexico</original_language_title>
+               <original_language_title language="en">Digital inequality and academic performance in higher education: a comparative study in public universities form Argentina and Mexico</original_language_title>
             </titles>
             <contributors>
                <person_name sequence="first" contributor_role="author">
@@ -66,44 +66,16 @@
             <citation_list>
                <citation key="bib-2565-HARGITTAI2002">
                   <doi>10.5210/fm.v7i4.942</doi>
-                  <unstructured_citation>Hargittai, E. (
-      
-      2002
-     
-     ). Second-Level Digital Divide: Differences in People's Online Skills. First Monday, 
-      
-      7
-     
-     (
-      
-      4
-     
-     ). https://doi.org/
-      
-      10.5210/fm.v7i4.942
-     
-     .</unstructured_citation>
+                  <unstructured_citation>Hargittai, E. (2002). Second-Level Digital Divide: Differences in People's Online Skills. First Monday, 7(4). https://doi.org/10.5210/fm.v7i4.942.</unstructured_citation>
                </citation>
                <citation key="bib-2562-WARSCHAUER2004">
-                  <unstructured_citation>Warschauer, M. (
-      
-      2004
-     
-     ). Technology and Social Inclusion: Rethinking the Digital Divide. The MIT Press.</unstructured_citation>
+                  <unstructured_citation>Warschauer, M. (2004). Technology and Social Inclusion: Rethinking the Digital Divide. The MIT Press.</unstructured_citation>
                </citation>
                <citation key="bib-2563-VANDIJK2020">
-                  <unstructured_citation>van Dijk, J. A. (
-      
-      2020
-     
-     ). The Digital Divide. Polity Press.</unstructured_citation>
+                  <unstructured_citation>van Dijk, J. A. (2020). The Digital Divide. Polity Press.</unstructured_citation>
                </citation>
                <citation key="bib-2566-CEPAL2021">
-                  <unstructured_citation>CEPAL (
-      
-      2021
-     
-     ). Tecnologías digitales para un nuevo futuro. CEPAL.</unstructured_citation>
+                  <unstructured_citation>CEPAL (2021). Tecnologías digitales para un nuevo futuro. CEPAL.</unstructured_citation>
                </citation>
             </citation_list>
          </journal_article>
