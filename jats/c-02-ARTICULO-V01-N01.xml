@@ -39,7 +39,8 @@ Digital inequality and academic performance in higher education: a comparative s
                </name>
                <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-3369-4822</contrib-id>
                <aff>
-                  <country>Argentina</country>
+                  <city>Mendoza</city>,
+          <country>Argentina</country>
                </aff>
             </contrib>
          </contrib-group>
@@ -49,6 +50,8 @@ Digital inequality and academic performance in higher education: a comparative s
          </pub-date>
          <volume>1</volume>
          <issue>1</issue>
+         <fpage>0</fpage>
+         <lpage>20</lpage>
          <permissions>
             <copyright-year>2026</copyright-year>
             <license license-type="open-access"
@@ -198,7 +201,7 @@ Digital inequality and academic performance in higher education: a comparative s
       </sec>
       <sec id="sec-6">
          <title>Habilidades digitales y rendimiento académico</title>
-         <p>PRUEBA 123 El análisis de regresión múltiple mostró que las habilidades digitales, medidas mediante la escala adaptada, constituyen el predictor más fuerte del rendimiento académico en el período analizado</p>
+         <p>El análisis de regresión múltiple mostró que las habilidades digitales, medidas mediante la escala adaptada, constituyen el predictor más fuerte del rendimiento académico en el período analizado</p>
          <p>(β = 0,34; p &lt; 0,001), por encima del acceso material (β = 0,21; p &lt; 0,01) y del acceso motivacional (β = 0,18; p &lt; 0,01). Sin embargo, el análisis de mediación reveló que las habilidades digitales operan, en buena medida, como variable mediadora entre el acceso material y el rendimiento: los estudiantes con mejores condiciones materiales desarrollan habilidades digitales más sofisticadas, lo que a su vez se traduce en mejores resultados académicos.</p>
          <p>La Figura 1 presenta el modelo de mediación estimado con las cargas estandarizadas.</p>
          <boxed-text id="figsol">

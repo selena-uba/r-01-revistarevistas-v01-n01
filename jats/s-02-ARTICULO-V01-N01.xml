@@ -22,7 +22,7 @@
          </publisher>
       </journal-meta>
       <article-meta>
-         <article-id pub-id-type="publisher-id">10.24215/18522971e134</article-id>
+         <article-id pub-id-type="publisher-id">1515-1573-REVISTASELENA-01-01-00000</article-id>
          <article-id pub-id-type="doi">10.24215/18522971e134</article-id>
          <article-categories>
             <subj-group subj-group-type="heading">
@@ -45,7 +45,8 @@ Digital inequality and academic performance in higher education: a comparative s
                   <given-names>Persona</given-names>
                </name>
                <aff>
-                  <country>Argentina</country>
+                  <addr-line>Mendoza</addr-line>,
+          <country>Argentina</country>
                </aff>
             </contrib>
          </contrib-group>
@@ -55,6 +56,8 @@ Digital inequality and academic performance in higher education: a comparative s
          </pub-date>
          <volume>1</volume>
          <issue>1</issue>
+         <fpage>0</fpage>
+         <lpage>20</lpage>
          <permissions>
             <copyright-year>2026</copyright-year>
             <license license-type="open-access"
@@ -200,7 +203,7 @@ Digital inequality and academic performance in higher education: a comparative s
       </sec>
       <sec id="sec-6">
          <title>Habilidades digitales y rendimiento académico</title>
-         <p>PRUEBA 123 El análisis de regresión múltiple mostró que las habilidades digitales, medidas mediante la escala adaptada, constituyen el predictor más fuerte del rendimiento académico en el período analizado</p>
+         <p>El análisis de regresión múltiple mostró que las habilidades digitales, medidas mediante la escala adaptada, constituyen el predictor más fuerte del rendimiento académico en el período analizado</p>
          <p>(β = 0,34; p &lt; 0,001), por encima del acceso material (β = 0,21; p &lt; 0,01) y del acceso motivacional (β = 0,18; p &lt; 0,01). Sin embargo, el análisis de mediación reveló que las habilidades digitales operan, en buena medida, como variable mediadora entre el acceso material y el rendimiento: los estudiantes con mejores condiciones materiales desarrollan habilidades digitales más sofisticadas, lo que a su vez se traduce en mejores resultados académicos.</p>
          <p>La Figura 1 presenta el modelo de mediación estimado con las cargas estandarizadas.</p>
          <boxed-text id="figsol" position="float" orientation="portrait">

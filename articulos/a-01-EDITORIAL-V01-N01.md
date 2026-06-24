@@ -1,4 +1,6 @@
+
 ::: {.editorial}
+
 La pandemia de COVID-19 funcionó como un acelerador involuntario de procesos que llevaban años en gestación. En cuestión de semanas, sistemas educativos enteros migraron a plataformas virtuales, trámites administrativos que exigían presencialidad se trasladaron a portales web y la telemedicina dejó de ser una promesa para convertirse en una necesidad imperiosa. Sin embargo, esa aceleración no hizo más que volver más visibles las fracturas que ya existían en el tejido social de la región.
 
 América Latina llegó a la pandemia con una infraestructura digital profundamente desigual. Mientras las capitales y las grandes áreas metropolitanas disponían de conexiones de banda ancha razonablemente estables, vastas zonas rurales e incluso periferias urbanas carecían de conectividad básica. La brecha no era solo de acceso físico: se manifestaba también en las competencias digitales de la población, en la disponibilidad de dispositivos adecuados y en la capacidad institucional para sostener servicios en línea de manera continua y segura.

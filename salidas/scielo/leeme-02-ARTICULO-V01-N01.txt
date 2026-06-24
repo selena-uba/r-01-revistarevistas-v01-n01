@@ -1,0 +1,40 @@
+PAQUETE SCIELO — construido con gbpublisher
+============================================================
+Generado: 2026-06-24 19:04:55
+
+DATOS DEL ARTÍCULO
+------------------------------------------------------------
+Título:    Desigualdad digital y rendimiento académico en la educación superior: un estudio comparativo en universidades públicas de Argentina y México
+Autor(es): Una, Persona
+Archivo:   02-ARTICULO-V01-N01
+
+DATOS DE LA REVISTA
+------------------------------------------------------------
+Acrónimo SciELO: REVISTASELENA
+ISSN:            1515-1573
+URL canónica:    https://www.youtube.com/watch?v=dz9o9AIzme8
+
+NOMENCLATURA SCIELO
+------------------------------------------------------------
+PID: 1515-1573-REVISTASELENA-1-1-00000
+
+CONTENIDO DEL ZIP
+------------------------------------------------------------
+  1515-1573-REVISTASELENA-1-1-00000.xml — XML SciELO PS 1.9
+  1515-1573-REVISTASELENA-1-1-00000.pdf — PDF final
+  1515-1573-REVISTASELENA-1-1-00000-gf01.png — Imagen 1
+
+VALIDACIÓN PACKTOOLS STYLECHECKER
+------------------------------------------------------------
+  Estado:       NO VÁLIDO
+  DTD errors:   presentes
+  Style errors: presentes
+
+OBSERVACIONES
+------------------------------------------------------------
+
+PRÓXIMOS PASOS
+------------------------------------------------------------
+  1. Corregir los errores indicados arriba
+  2. Regenerar el paquete desde gbpublisher
+  3. Enviar el ZIP a scielo@scielo.org

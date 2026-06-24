@@ -22,7 +22,7 @@
          </publisher>
       </journal-meta>
       <article-meta>
-         <article-id pub-id-type="publisher-id">10.24215/18522971e133</article-id>
+         <article-id pub-id-type="publisher-id">1515-1573-REVISTASELENA-01-01-00000</article-id>
          <article-id pub-id-type="doi">10.24215/18522971e133</article-id>
          <article-categories>
             <subj-group subj-group-type="heading">
@@ -54,6 +54,8 @@
          </pub-date>
          <volume>1</volume>
          <issue>1</issue>
+         <fpage>0</fpage>
+         <lpage>50</lpage>
          <permissions>
             <copyright-year>2026</copyright-year>
             <license license-type="open-access"

@@ -38,7 +38,8 @@
                <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-7695-6269</contrib-id>
                <aff>
                   <institution>Facultad de Filosofìa y Letras</institution>,
-          <city>Buenos Aires</city>
+          <city>Buenos Aires</city>,
+          <country>Argentina</country>
                </aff>
             </contrib>
          </contrib-group>
@@ -48,6 +49,8 @@
          </pub-date>
          <volume>1</volume>
          <issue>1</issue>
+         <fpage>0</fpage>
+         <lpage>50</lpage>
          <permissions>
             <copyright-year>2026</copyright-year>
             <license license-type="open-access"
