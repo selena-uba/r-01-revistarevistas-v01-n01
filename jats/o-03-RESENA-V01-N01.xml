@@ -7,8 +7,8 @@
            xsi:schemaLocation="http://www.crossref.org/schema/5.3.1 https://www.crossref.org/schemas/crossref5.3.1.xsd"
            version="5.3.1">
    <head>
-      <doi_batch_id>gbpublisher-03-RESENA-V01-N01-20260623200608</doi_batch_id>
-      <timestamp>20260623200608</timestamp>
+      <doi_batch_id>gbpublisher-03-RESENA-V01-N01-20260627005217</doi_batch_id>
+      <timestamp>20260627005217</timestamp>
       <depositor>
          <depositor_name>Editorial Selena</depositor_name>
          <email_address>selenaedita@gmail.com</email_address>
@@ -24,6 +24,7 @@
          <journal_issue>
             <publication_date media_type="online">
                <month>06</month>
+               <day>05</day>
                <year>2026</year>
             </publication_date>
             <journal_volume>
@@ -47,8 +48,13 @@
             </contributors>
             <publication_date media_type="online">
                <month>06</month>
+               <day>05</day>
                <year>2026</year>
             </publication_date>
+            <pages>
+               <first_page>0</first_page>
+               <last_page>10</last_page>
+            </pages>
             <program xmlns="http://www.crossref.org/AccessIndicators.xsd">
                <free_to_read/>
                <license_ref applies_to="vor">https://creativecommons.org/licenses/by/4.0/deed.es</license_ref>

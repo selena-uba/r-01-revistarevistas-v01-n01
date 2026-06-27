@@ -59,7 +59,7 @@
      Reseña sobre un libro
     
     </article-title>
-            <trans-title-group xml:lang="eng">
+            <trans-title-group xml:lang="en">
                <trans-title>
       
       Review about a book
@@ -83,7 +83,16 @@
                </name>
                <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0009-0009-5121-7748</contrib-id>
                <aff>
-                  <institution>
+                  <institution content-type="dept">
+       
+       Catedra suya
+      
+      </institution>
+      
+      ,
+          
+      
+      <institution>
        
        Directora de la facultad
       
@@ -92,16 +101,21 @@
             </contrib>
          </contrib-group>
          <pub-date pub-type="epub-ppub">
-            <month>
-     
-     06
-    
-    </month>
             <year>
      
      2026
     
     </year>
+            <month>
+     
+     06
+    
+    </month>
+            <day>
+     
+     05
+    
+    </day>
          </pub-date>
          <volume>
     
@@ -113,6 +127,86 @@
     1
    
    </issue>
+         <fpage>
+    
+    0
+   
+   </fpage>
+         <lpage>
+    
+    10
+   
+   </lpage>
+         <history>
+            <date date-type="received">
+               <day>
+      
+      12
+     
+     </day>
+               <month>
+      
+      06
+     
+     </month>
+               <year>
+      
+      2026
+     
+     </year>
+            </date>
+            <date date-type="rev-recd">
+               <day>
+      
+      05
+     
+     </day>
+               <month>
+      
+      06
+     
+     </month>
+               <year>
+      
+      2026
+     
+     </year>
+            </date>
+            <date date-type="accepted">
+               <day>
+      
+      19
+     
+     </day>
+               <month>
+      
+      06
+     
+     </month>
+               <year>
+      
+      2026
+     
+     </year>
+            </date>
+            <date date-type="pub">
+               <day>
+      
+      26
+     
+     </day>
+               <month>
+      
+      06
+     
+     </month>
+               <year>
+      
+      2026
+     
+     </year>
+            </date>
+         </history>
          <permissions>
             <copyright-year>
      
@@ -187,7 +281,7 @@
    </p>
          <p>
     
-    El argumento central del libro puede resumirse en una operación de desplazamiento: donde la tradición dominante del pensamiento social brasileño ubicó al patrimonialismo heredado de Portugal como la clave explicativa de los males nacionales —la corrupción, el atraso institucional, la ineficiencia del Estado—, Souza propone que la verdadera matriz de la desigualdad brasileña es la esclavitud y su legado persistente. No se trata, advierte el autor, de una tesis meramente historiográfica: lo que está en juego es la estructura de legitimación que permite a las élites brasileñas contemporáneas reproducir privilegios mientras trasladan la responsabilidad del “atraso” al Estado y, por extensión, a las clases populares que dependen de él.
+    El argumento central del libro puede resumirse en una operación de desplazamiento: donde la tradición dominante del pensamiento social brasileño ubicó al patrimonialismo heredado de Portugal como la clave explicativa de los males nacionales —la corrupción, el atraso institucional, la ineficiencia del Estado—, Souza propone que la verdadera matriz de la desigualdad brasileña es la esclavitud y su legado persistente. No se trata, advierte el autor, de una tesis meramente historiográfica: lo que está en juego es la estructura de legitimación que permite a las élites brasileñas contemporáneas reproducir privilegios, mientras trasladan la responsabilidad del “atraso” al Estado y, por extensión a las clases populares que dependen de él.
    
    </p>
          <p>

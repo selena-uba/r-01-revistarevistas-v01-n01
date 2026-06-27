@@ -1,7 +1,7 @@
 
 ::: {.editorial}
 
-La pandemia de COVID-19 funcionó como un acelerador involuntario de procesos que llevaban años en gestación. En cuestión de semanas, sistemas educativos enteros migraron a plataformas virtuales, trámites administrativos que exigían presencialidad se trasladaron a portales web y la telemedicina dejó de ser una promesa para convertirse en una necesidad imperiosa. Sin embargo, esa aceleración no hizo más que volver más visibles las fracturas que ya existían en el tejido social de la región.
+La pandemia de COVID-19 Hargitta funcionó como un acelerador involuntario de procesos que llevaban años en gestación. En cuestión de semanas, sistemas educativos enteros migraron a plataformas virtuales, trámites administrativos que exigían presencialidad, se trasladaron a portales web y la telemedicina dejó de ser una promesa para convertirse en una necesidad imperiosa. Sin embargo, esa aceleración no hizo más que volver más visibles las fracturas que ya existían en el tejido social de la región.
 
 América Latina llegó a la pandemia con una infraestructura digital profundamente desigual. Mientras las capitales y las grandes áreas metropolitanas disponían de conexiones de banda ancha razonablemente estables, vastas zonas rurales e incluso periferias urbanas carecían de conectividad básica. La brecha no era solo de acceso físico: se manifestaba también en las competencias digitales de la población, en la disponibilidad de dispositivos adecuados y en la capacidad institucional para sostener servicios en línea de manera continua y segura.
 
@@ -9,7 +9,7 @@ Tres años después del momento más agudo de la crisis sanitaria, el balance re
 
 El problema, conviene insistir, no es exclusivamente tecnológico. La digitalización que no va acompañada de políticas públicas integrales ---que atiendan simultáneamente la conectividad, la formación, el diseño institucional y la producción de contenidos pertinentes--- corre el riesgo de reproducir y amplificar las desigualdades preexistentes. En una región donde la matriz de la desigualdad opera simultáneamente por ingreso, género, etnia, territorio y edad, suponer que la mera provisión de infraestructura resuelve el acceso es una simplificación que ningún responsable de política pública debería permitirse.
 
-Este número de la revista reúne contribuciones que abordan distintas aristas de esta problemática. Los trabajos que aquí se presentan comparten una premisa: la transformación digital de nuestras sociedades no puede analizarse al margen de las condiciones materiales y simbólicas en las que se despliega. Esperamos que su lectura contribuya a enriquecer un debate que, lejos de cerrarse, se vuelve más urgente con cada innovación tecnológica que promete ---una vez más--- resolver por sí sola, las deudas históricas de la región.
+Este número de la revista reúne contribuciones que abordan distintas aristas de esta problemática. Los trabajos que aquí se presentan comparten una premisa: la transformación digital de nuestras sociedades no puede analizarse al margen de las condiciones materiales y simbólicas en las que se despliega. Esperamos que su lectura contribuya a enriquecer un debate que, lejos de cerrarse, se vuelve más urgente con cada innovación tecnológica que promete ---una vez más--- resolver por sí sola, las deudas históricas de la región. 1234
 
 :::
 

@@ -7,9 +7,11 @@
       <publisher>Editorial Selena</publisher>
       <journalTitle>Revista Revistas</journalTitle>
       <eissn>1515-1573</eissn>
-      <publicationDate>2026-06</publicationDate>
+      <publicationDate>2026-06-05</publicationDate>
       <volume>1</volume>
       <issue>1</issue>
+      <startPage>0</startPage>
+      <endPage>10</endPage>
       <doi>10.24215/18522971e131</doi>
       <documentType>book review</documentType>
       <title language="spa">Reseña sobre un libro</title>
@@ -21,8 +23,8 @@
          </author>
       </authors>
       <affiliationsList>
-         <affiliationName affiliationId="1">Directora de la facultad</affiliationName>
+         <affiliationName affiliationId="1">Catedra suya , Directora de la facultad</affiliationName>
       </affiliationsList>
-      <fullTextUrl format="text/html">https://www.youtube.com/</fullTextUrl>
+      <fullTextUrl format="text/html">https://archiveofourown.org/works/57620047/chapters/146620033</fullTextUrl>
    </record>
 </records>
